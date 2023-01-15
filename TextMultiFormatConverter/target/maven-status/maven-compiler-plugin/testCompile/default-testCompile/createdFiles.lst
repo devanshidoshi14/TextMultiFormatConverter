@@ -1,0 +1,6 @@
+com\converter\CSVExporterTest.class
+com\converter\WordsExtractorTest.class
+com\converter\SentenceParserTest.class
+com\converter\SentenceRecognizerTest.class
+com\converter\XMLExporterTest.class
+com\converter\WordSorterTest.class

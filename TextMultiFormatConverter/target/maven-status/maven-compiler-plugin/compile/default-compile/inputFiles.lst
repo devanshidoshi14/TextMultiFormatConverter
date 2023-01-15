@@ -1,0 +1,15 @@
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\ConverterModule.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\lang\Dictionary.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\export\FileExporter.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\parser\SentenceIterator.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\export\RunnableWriterInterface.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\parser\FileFormat.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\lang\WordSorter.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\export\XMLExporter.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\export\SupportExporter.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\model\Sentence.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\parser\WordsExtractor.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\parser\SentenceParser.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\Application.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\export\CSVExporter.java
+F:\Java practice\TextMultiFormatConverter\src\main\java\com\converter\lang\SentenceRecognizer.java

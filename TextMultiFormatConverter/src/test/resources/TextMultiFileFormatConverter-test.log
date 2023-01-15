@@ -1,0 +1,70 @@
+2023-01-14 22:06:19,541 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:06:19,549 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:06:19,575 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:06:19,575 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:06:19,578 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:06:19,645 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: CSV
+2023-01-14 22:06:19,671 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:06:19,673 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:06:19,673 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:06:19,674 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:06:19,701 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2023-01-14 22:06:19,754 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:06:20,079 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:06:20,081 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:07:56,073 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:07:56,082 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:07:56,102 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:07:56,102 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:07:56,105 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:07:56,163 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: CSV
+2023-01-14 22:07:56,170 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:07:56,173 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:07:56,174 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:07:56,174 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:07:56,202 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2023-01-14 22:07:56,230 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:07:56,465 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:07:56,468 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:13:23,052 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:13:23,061 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:13:23,081 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:13:23,081 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:13:23,088 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:13:23,153 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: CSV
+2023-01-14 22:13:23,161 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:13:23,165 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:13:23,166 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:13:23,166 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:13:23,206 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2023-01-14 22:13:23,229 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:13:23,496 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:13:23,497 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:17:20,752 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:17:20,759 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:17:20,778 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:17:20,779 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:17:20,781 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:17:20,820 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: CSV
+2023-01-14 22:17:20,847 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:17:20,851 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:17:20,852 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:17:20,853 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:17:20,891 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2023-01-14 22:17:20,912 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:17:21,134 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:17:21,135 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:20:52,616 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:20:52,625 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:20:52,644 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:20:52,644 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:20:52,647 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:20:52,700 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: CSV
+2023-01-14 22:20:52,709 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:20:52,711 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2023-01-14 22:20:52,712 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:20:52,712 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2023-01-14 22:20:52,738 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2023-01-14 22:20:52,764 DEBUG [main] c.c.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2023-01-14 22:20:52,962 DEBUG [main] c.c.e.SupportExporter [SupportExporter.java:24] SupportExporter loaded.
+2023-01-14 22:20:52,963 DEBUG [main] c.c.l.Dictionary [Dictionary.java:29] Dictionary initialized.
